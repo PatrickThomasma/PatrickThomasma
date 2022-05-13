@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is my repository where you can find most of my personal projects that I have worked on!
+I am proficient in C++/Python/C/HTML/Javascript/PHP/R/Java
+I'm looking for a job to further hone in my software engineering skills and help make a difference wherever I work at!
+
 <!--
 **PatrickThomasma/PatrickThomasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
