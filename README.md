@@ -12,4 +12,4 @@ Some Projects I wanted to show off are
 - [CPU based graphics renderer](https://github.com/PatrickThomasma/UO-ComputerScience/tree/main/CIS441)
 
 
-- 📫 How to reach me: You can reach me at my personal email prthoasma@gmail.com 
+- 📫 How to reach me: You can reach me at my personal email prthomasma@gmail.com 
